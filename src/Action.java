@@ -1,4 +1,4 @@
-public class Action {
+/*public class Action {
 
     private Method method;
     private char hotkey;
@@ -24,3 +24,4 @@ public class Action {
     }
     public String str() { return hotkey + ": " + name; }
 }
+*/
