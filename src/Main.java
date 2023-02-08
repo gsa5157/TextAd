@@ -10,6 +10,6 @@ public class Main {
     Zombie slowZombie = new Zombie();
     Zombie fastZombie = new Zombie();
     Dog spotDog = new Dog();
-    Creeper slowCreeper = new Creeper();
+    Creeper creeper = new Creeper(Explodes.Lava);
     }
 }

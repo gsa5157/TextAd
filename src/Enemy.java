@@ -14,6 +14,10 @@ public class Enemy {
         this.size = size;
         this.speed = speed;
 
+
+    }
+
+    public Enemy() {
     }
 
     public String toString() {
