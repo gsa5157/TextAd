@@ -1,12 +1,12 @@
-/*public class Action {
+public class Action {
 
     private Method method;
     private char hotkey;
-    public char grtHotkey() {
+    public char getHotkey() {
         return hotkey;
     }
 
-    public void setHotkey(char hotkey) {this.hotkey = hotKey; }
+    public void setHotkey(char hotkey) {this.hotkey = hotkey; }
 
     private String name;
     public String getName() { return name; }
@@ -24,4 +24,3 @@
     }
     public String str() { return hotkey + ": " + name; }
 }
-*/

@@ -11,5 +11,11 @@ public class Main {
     Zombie fastZombie = new Zombie();
     Dog spotDog = new Dog();
     Creeper creeper = new Creeper(Explodes.Lava);
+    MoveWest moveWest = new MoveWest();
+    MoveEast moveEast = new MoveEast();
+    MoveNorth moveNorth = new MoveNorth();
+    MoveSouth moveSouth = new MoveSouth();
+    Flee flee = new Flee();
+    ViewInventory viewInventory = new ViewInventory();
     }
 }
