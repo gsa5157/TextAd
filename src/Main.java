@@ -17,5 +17,6 @@ public class Main {
     MoveSouth moveSouth = new MoveSouth();
     Flee flee = new Flee();
     ViewInventory viewInventory = new ViewInventory();
+    Crouch crouch = new Crouch();
     }
 }
