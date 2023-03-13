@@ -18,5 +18,7 @@ public class Main {
     Flee flee = new Flee();
     ViewInventory viewInventory = new ViewInventory();
     Crouch crouch = new Crouch();
+    World world = new World();
+    world.load_tiles();
     }
 }
